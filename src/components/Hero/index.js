@@ -11,7 +11,7 @@ const Hero = () => {
           </h1>
           <p className="mb-8 leading-relaxed">Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.</p>
           <div className="flex justify-center">
-            <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Show All Products</button>
+            <a target='_blank' href='https://www.amazon.in/?&ext_vrnc=hi&tag=googinhydr1-21&ref=pd_sl_4aixbc67ji_b&adgrpid=57687748743&hvpone=&hvptwo=&hvadid=617721285511&hvpos=&hvnetw=g&hvrand=9010277310087353439&hvqmt=b&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9299829&hvtargid=kwd-297849179688&hydadcr=5844_2362049'><button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Show All Products</button></a>
             <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Contact Us</button>
           </div>
         </div>
